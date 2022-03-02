@@ -1,0 +1,19 @@
+/* reset file */
+@import './reset';
+
+/* color file */
+@import './colors';
+
+/* comming soon page start */
+.comming-soon-box {
+    height: 100vh;
+    width: 100%;
+    background-color: #000;
+
+    svg {
+        height: 100%;
+        width: 100%;
+    }
+}
+
+/* comming soon page end */
